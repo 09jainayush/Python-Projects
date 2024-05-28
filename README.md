@@ -1,1 +1,1 @@
-In this Repository, one can find all my Pyhon Projects
+In this Repository, one can find all my Python Projects
